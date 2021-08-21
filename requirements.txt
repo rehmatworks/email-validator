@@ -1,0 +1,4 @@
+dnspython==2.1.0
+filelock==3.0.12
+idna==3.2
+py3-validate-email==1.0.1
